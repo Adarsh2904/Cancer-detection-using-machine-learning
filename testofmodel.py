@@ -11,7 +11,7 @@ img=img.resize((64,64))
 
 img = np.array(img)
 print(img)
-#if all as zero no cancer or it is cancer
+#if all as zero no cancer or it is tumor
 
 
 
